@@ -1,4 +1,2 @@
-Hola
-Primer Commit
-Ahora hacer pull
-JEJEJEJ.
+Ahora voy a borrar ese error.
+
